@@ -1,4 +1,4 @@
-# Hangman Game README
+# Hangman
 
 ## Overview
 Hangman is a classic word-guessing game. This implementation allows players to guess a word letter by letter, with different modes to either have the computer choose a word, the player set a word, or play a special word.
